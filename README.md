@@ -51,7 +51,7 @@ Open the application in your browser: [http://localhost:81](http://localhost:81)
 - Port: `5432`
 - Username: `main`
 - Password: `main`
-- Database: `DataB`
+- Database: `main`
 
 
 ## Additional Information
